@@ -25,7 +25,7 @@
 
 fork 后，修改自己仓库的 `url.csv`，然后在 Vercel 平台上导入自己的项目  
 你也可以直接修改<https://github.com/YieldRay/Random-Picture/blob/master/url.csv>来创建 fork  
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2FYieldRay%2FRandom-Picture)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2zhuzi6%2FRandom-Picture-1)
 
 ## php 部署到虚拟主机
 
